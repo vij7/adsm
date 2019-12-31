@@ -1,10 +1,7 @@
 /*--------------------------------------------------------------------------------------
-Theme Name: Hooper
-Theme URI: http://quomodosoft.com
-Author URI: http://quomodosoft.com
-Description: 100% Responsive, Highly Customizable, SEO Friendly template using Twitter Bootstrap Latest, Search Engine Friendly.
-Author: Mehedi Hasan Nahid
-Version: 1.0
+Theme Name: ADSM
+Theme URI: http://webcolabs.com
+Author URI: http://webcolabs.com
 ----------------------------------------------------------------------------------------
     1. THEME BG COLOR
     2. PRELOADER
@@ -56,7 +53,7 @@ header {
 }
 
 .background-blue {
-    background: #4c55c4 !important;
+    background: #64cc35 !important;
     -webkit-box-shadow: 0 16px 32px rgba(76, 85, 196, 0.2) !important;
     box-shadow: 0 16px 32px rgba(76, 85, 196, 0.2) !important;
     color: #ffffff !important;
@@ -87,7 +84,7 @@ header {
     2. PRELOADER
 -----------------------------*/
 .preeloader {
-    background: #4c55c4 none repeat scroll 0 0;
+    background: #64cc35 none repeat scroll 0 0;
     height: 100%;
     position: fixed;
     width: 100%;
@@ -231,7 +228,7 @@ header {
 }
 
 .subtitle {
-    color: #4c55c4;
+    color: #64cc35;
     font-size: 16px;
     font-weight: 500;
     letter-spacing: 2px;
@@ -292,7 +289,7 @@ header {
 }
 
 .owl-carousel .owl-nav > div {
-    background: #4c55c4 none repeat scroll 0 0;
+    background: #64cc35 none repeat scroll 0 0;
     border-radius: 50%;
     -webkit-box-shadow: 0 16px 32px rgba(0, 0, 0, 0.2);
     box-shadow: 0 16px 32px rgba(0, 0, 0, 0.2);
@@ -313,7 +310,7 @@ header {
 
 .owl-carousel .owl-nav > div:hover {
     background: #ffffff;
-    color: #4c55c4;
+    color: #64cc35;
 }
 
 .owl-carousel .owl-nav > div.owl-next {
@@ -1097,7 +1094,7 @@ a.more-button {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    background: #4c55c4 none repeat scroll 0 0;
+    background: #64cc35 none repeat scroll 0 0;
     border-radius: 50px;
     color: #ffffff;
     display: -webkit-inline-box;
@@ -1117,7 +1114,7 @@ a.more-button {
 
 a.more-button:hover {
     background: #ffffff;
-    color: #4c55c4;
+    color: #64cc35;
 }
 
 a.more-button i {
@@ -1136,7 +1133,7 @@ a.more-button i {
 }
 
 a.more-button:hover i {
-    background: #4c55c4 none repeat scroll 0 0;
+    background: #64cc35 none repeat scroll 0 0;
     color: #ffffff;
 }
 
@@ -1178,7 +1175,7 @@ a.more-button:hover i {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    background: #4c55c4 none repeat scroll 0 0;
+    background: #64cc35 none repeat scroll 0 0;
     border-radius: 50px;
     color: #ffffff;
     display: -webkit-inline-box;
@@ -1198,7 +1195,7 @@ a.more-button:hover i {
 
 .home-button a:hover {
     background: #ffffff;
-    color: #4c55c4;
+    color: #64cc35;
 }
 
 .home-button a i {
@@ -1217,7 +1214,7 @@ a.more-button:hover i {
 }
 
 .home-button a:hover i {
-    background: #4c55c4 none repeat scroll 0 0;
+    background: #64cc35 none repeat scroll 0 0;
     color: #ffffff;
 }
 
@@ -1374,7 +1371,7 @@ a.more-button:hover i {
 .round-button {
     background: #f7f8ff none repeat scroll 0 0;
     border-radius: 50%;
-    color: #4c55c4;
+    color: #64cc35;
     display: inline-block;
     height: 40px;
     padding-top: 7px;
@@ -1382,7 +1379,7 @@ a.more-button:hover i {
 }
 
 .round-button:hover {
-    background: #4c55c4 none repeat scroll 0 0;
+    background: #64cc35 none repeat scroll 0 0;
     color: #ffffff;
 }
 
@@ -1489,7 +1486,7 @@ a.more-button:hover i {
 }
 
 .single-progressbar .count-bar.color-1 {
-    background: #4c55c4;
+    background: #64cc35;
 }
 
 .single-progressbar .count-bar.color-2 {
@@ -1536,7 +1533,7 @@ a.more-button:hover i {
 }
 
 .single-progressbar .count-bar.color-1 .count {
-    color: #4c55c4;
+    color: #64cc35;
 }
 
 .single-progressbar .count-bar.color-2 .count {
@@ -1766,7 +1763,7 @@ a.more-button:hover i {
 }
 
 .single-team-eleven .designation {
-    color: #4c55c4;
+    color: #64cc35;
     font-size: 16px;
     letter-spacing: 1px;
     margin-bottom: 10px;
@@ -1845,7 +1842,7 @@ a.more-button:hover i {
 }
 
 .single-blog-item-three .blog-date {
-    background: #4c55c4 none repeat scroll 0 0;
+    background: #64cc35 none repeat scroll 0 0;
     color: #ffffff;
     font-family: "Poppins", sans-serif;
     font-size: 30px;
@@ -1879,7 +1876,7 @@ a.more-button:hover i {
 }
 
 .single-blog-item-three .post-by a {
-    color: #4c55c4;
+    color: #64cc35;
 }
 
 .single-blog-item-three .single-blog-item-three .blog-title {
@@ -1961,7 +1958,7 @@ a.more-button:hover i {
 }
 
 .portfolio-menu ul li::after {
-    background: #4c55c4;
+    background: #64cc35;
     bottom: -4px;
     content: "";
     height: 4px;
@@ -1974,7 +1971,7 @@ a.more-button:hover i {
 }
 
 .portfolio-menu ul li.active {
-    color: #4c55c4;
+    color: #64cc35;
 }
 
 .portfolio-menu ul li.active:after {
@@ -2134,7 +2131,7 @@ a.more-button:hover i {
     22. TESTMONIAL STYLE TEN
 ----------------------------------*/
 .single-testmonial-ten .testmonial-quote {
-    background: #4c55c4 none repeat scroll 0 0;
+    background: #64cc35 none repeat scroll 0 0;
     border-radius: 50%;
     -webkit-box-shadow: 0 16px 32px rgba(0, 0, 0, 0.2);
     box-shadow: 0 16px 32px rgba(0, 0, 0, 0.2);
@@ -2238,7 +2235,7 @@ a.more-button:hover i {
 }
 
 .home-alt .welcome-text h1 {
-    font-size: 80px;
+    font-size: 60px;
     margin-bottom: 30px;
 }
 
@@ -2524,7 +2521,7 @@ a.more-button:hover i {
 }
 
 .portfolio-pagination-center-grid a {
-    color: #4c55c4;
+    color: #64cc35;
 }
 
 .portfolio-pagination-center-grid a:hover,
@@ -2741,7 +2738,7 @@ a.more-button:hover i {
 
 .detials-list ul li:hover i,
 .detials-list ul li.active i {
-    background: #4c55c4 none repeat scroll 0 0;
+    background: #64cc35 none repeat scroll 0 0;
     color: #ffffff;
 }
 
@@ -2848,7 +2845,7 @@ a.more-button:hover i {
 }
 
 .promo-sale {
-    background: #4c55c4 none repeat scroll 0 0;
+    background: #64cc35 none repeat scroll 0 0;
     border-radius: 30px 30px 0 0;
     color: #ffffff;
     padding: 20px;
@@ -2877,7 +2874,7 @@ a.more-button:hover i {
 }
 
 .price-button {
-    background: #4c55c4 none repeat scroll 0 0;
+    background: #64cc35 none repeat scroll 0 0;
     border-radius: 50px;
     -webkit-box-shadow: 0 16px 32px rgba(76, 85, 196, 0.2);
     box-shadow: 0 16px 32px rgba(76, 85, 196, 0.2);
@@ -2892,7 +2889,7 @@ a.more-button:hover i {
 .price-button:hover,
 .price-button:focus {
     background: #ffffff none repeat scroll 0 0;
-    color: #4c55c4;
+    color: #64cc35;
 }
 
 .single-price-plan ul {
@@ -3037,7 +3034,7 @@ ul.products .product img {
 }
 
 .product-category {
-    color: #4c55c4;
+    color: #64cc35;
     float: left;
     font-weight: 500;
     font-size: 16px;
@@ -3096,7 +3093,7 @@ ul.products .product img {
 }
 
 .products-pagination ul li a {
-    background: #4c55c4 none repeat scroll 0 0;
+    background: #64cc35 none repeat scroll 0 0;
     border-radius: 50%;
     -webkit-box-shadow: 0 16px 32px rgba(0, 0, 0, 0.1);
     box-shadow: 0 16px 32px rgba(0, 0, 0, 0.1);

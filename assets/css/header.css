@@ -244,12 +244,12 @@ ul#nav li a {
 }
 
 ul#nav li li a {
-    color: #4c55c4;
+    color: #64cc35;
 }
 
 .is-sticky ul#nav li a {
     padding: 30px 15px;
-    color: #4c55c4;
+    color: #64cc35;
 }
 
 /*.is-sticky ul#nav li ul li a {
@@ -393,7 +393,7 @@ ul#nav li ul a:hover {
 ------------------------------------*/
 @media (min-width: 768px) and (max-width: 991px) {
     .mainmenu-area {
-        background: #4c55c4 none repeat scroll 0 0;
+        background: #64cc35 none repeat scroll 0 0;
     }
 
     .mainmenu-area svg {
@@ -492,7 +492,7 @@ ul#nav li ul a:hover {
     }
 
     ul#nav li a {
-        color: #4c55c4 !important;
+        color: #64cc35 !important;
         font-weight: 400 !important;
         height: 40px;
     }
@@ -564,7 +564,10 @@ ul#nav li ul a:hover {
 @media only screen and (max-width: 767px) {
 
     .mainmenu-area {
-        background: #4c55c4 none repeat scroll 0 0;
+        background: 
+    #fff none repeat scroll 0 0;
+    box-shadow: 0 0 8px
+        rgba(0,0,0,0.2);
     }
 
     .mainmenu-area svg {
@@ -574,9 +577,14 @@ ul#nav li ul a:hover {
         top: 15px;
     }
 
-    .menu-toggle.full,
-    .navbar-header h3 a {
-        color: #ffffff !important;
+    div:not(.is-sticky) .menu-toggle.full,div:not(.is-sticky)  .navbar-header h3 a {
+        color: 
+        #222 !important;
+        text-indent: 0 !important;
+    }
+
+    .is-sticky .menu-toggle.full {
+        text-indent: -999px !important;
     }
 
     .line {
@@ -641,7 +649,7 @@ ul#nav li ul a:hover {
 
     ul#nav li a {
         height: 40px;
-        color: #4c55c4 !important;
+        color: #64cc35 !important;
         font-weight: 400 !important;
     }
 
@@ -711,7 +719,7 @@ ul#nav li ul a:hover {
     ul#nav li.current-menu-item > a,
     ul#nav li.hover > a,
     ul#nav li.open.menu-item-has-children > a {
-        background: #ff3d46 !important;
+        background: #64cc35 !important;
         color: #ffffff !important;
     }
 }
@@ -787,7 +795,7 @@ ul#nav li ul a:hover {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    background: #4c55c4 none repeat scroll 0 0;
+    background: #64cc35 none repeat scroll 0 0;
     border-radius: 50px;
     color: #ffffff;
     display: -webkit-box;
@@ -800,7 +808,7 @@ ul#nav li ul a:hover {
 
 .header-call-to-action .action-button:hover {
     background: #ffffff none repeat scroll 0 0;
-    color: #4c55c4;
+    color: #64cc35;
 }
 
 .header-call-to-action .action-button,
